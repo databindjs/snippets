@@ -19,13 +19,13 @@
 
    // reset enum value 1
    var B = Enum( 1);       // 1
-   var C = Enmu();         // 2
+   var C = Enum();         // 2
 
    var K = Enum( 90 );     // 90
    var J = Enum();         // 90
 
 
-   If you want to create a quick enum with minumal typing, use
+   Create enumareted list with minimal typing,
 
    var X = AutoEnum( 'key1 key2 key3 ... ' );
 
@@ -42,7 +42,7 @@
 
 
 
-   Copyright 2011, databindjs.org
+   Copyright 2012, databindjs.org
    License     MIT / http://bit.ly/mit-license
    Version     0.95
 

@@ -7,14 +7,15 @@ A Collection of JavaScript bits
 -----------------
 Snippets is just a reporitory for useful bits of JavaScript. 
 
-Every file uploaded has been tested and a more formal set of tests are planned.
 
+To Do
+-----------------
+Add formal test suite.
 
 
 How to contribute
 -----------------
 Fork, make your changes, run tests and/or add tests then send a pull request.
-
 
 
 License
