@@ -25,7 +25,7 @@
    var J = Enum();         // 90
 
 
-   Create enumareted list with minimal typing,
+   Create enumerated list with minimal typing,
 
    var X = AutoEnum( 'key1 key2 key3 ... ' );
 
